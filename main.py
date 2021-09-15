@@ -1,6 +1,6 @@
 """
 Rafaela Hojda
-CMPS 2200  Recitation 1
+CMPS 2200 Recitation 1
 """
 
 # the only imports needed are here
