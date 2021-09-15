@@ -64,7 +64,7 @@ def test_binary_search():
     assert binary_search([1, 2, 3, 4, 5], 8)
 
     """
-    Worst Case Linear: The last key because its last
+    Worst Case Linear: If the key does not exist within the array 
     Best Case Linear: The first key because its first
 
     Worst Case Binary: The middle key
